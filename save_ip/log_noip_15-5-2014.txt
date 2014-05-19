@@ -1,0 +1,2 @@
+[15/May/2014:09:38:02] &::1 Country : & &Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+[15/May/2014:16:14:09] &192.168.1.24 Country :- & &Mozilla/5.0 (Linux; Android 4.4.2; HTC One Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36

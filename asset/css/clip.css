@@ -1,0 +1,225 @@
+/* For iphone: */
+@media screen and (max-width : 320px){
+#content{
+	padding:0.1em;
+}
+
+}
+
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+#header{
+	background-color:#a33f40;
+	color:#FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:100;
+	text-shadow:none;
+	border-width:0;
+}
+#header-lotto{
+	background-color:#4d7596;
+	color:#FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:100;
+	text-shadow:none;
+	border-width:0;
+}
+
+#contenner{
+	width:100%;
+	height:100%;
+}
+#contenner-lotto{
+	width:100%;
+	height:100%;
+	background:url(../img/bg-lotto.jpg) no-repeat center;
+	background-size:cover;
+}
+.banner{
+	width:100%;
+	margin-top:10px;
+}
+
+ul{
+	list-style: none;
+    margin-bottom: 0.4em;
+	margin-left:-35px;
+	text-align:center;
+}
+.thumbnails li {
+    display: inline;
+   	margin: 0 1px 0 0;
+}
+
+.download-free-th{
+	float:left;
+	background:url(../img/buttom/Download-free_th.jpg);
+	width:99px;
+	height:22px;
+	margin-top:5px;
+	margin-left:2px;
+}
+
+.download-th{
+	float:left;
+	background-image:url(../img/buttom/Download-th.jpg);
+	width:99px;
+	height:22px;
+	margin-top:5px;
+	margin-left:2px;
+}
+
+
+.image{
+	float:left;
+	margin-right:10px;
+	margin-top:10px;
+	background:#000;
+}
+
+.hot-clip{
+	float:left;
+	background:url(../img/Icon/Hot.jpg);
+	width:69px;
+	height:15px;
+	margin-top:13px;
+}
+.notice{
+	float:left;
+	background:url(../img/Icon/icon-notice.png);
+	width:13px;
+	height:13px;
+	margin-top:5px;
+}
+
+.div-video{
+	font-size:11px;
+}
+
+
+.txt-content{
+	text-align:left;
+	margin-top:4px;
+	color:#231f20;
+}
+
+.txt-content-signup{
+	text-align:left;
+	font-size:25px;
+	margin-bottom:25px;
+}
+
+.txt-sign-header{ 
+	color:#231f20;
+	font-size:16px;
+	font-weight:bold;
+	margin-left:10px;
+	margin-top:13px;
+}
+
+.txt-detail{
+	font-size:12px;
+	color:#231f20;
+}
+.txt-message{
+	text-align:center;
+	vertical-align:middle;
+	font-size:16px;
+	margin-top:5px;
+}
+.txt-message-lotto{
+	text-align:center;
+	vertical-align:middle;
+	font-size:14px;
+	margin-top:5px;
+}
+.txt-check3g{
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:-62px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#frame{
+	width:100%;
+	height:50px;
+	border:1px solid #ad2f17;
+	background-color:#FFF;
+	opacity:0.88;
+	color:#000;
+}
+
+#frame-lotto{
+	width:100%;
+	height:50px;
+	background-color:#FFF;
+	opacity:0.7;
+	border:1px solid #6c8ba6;
+}
+
+#frame-detail{
+	width:100%;
+	border:1px solid #ad2f17;
+	margin-top:10px;
+	padding-top:10%;
+	background-color:#FFF;
+	opacity:0.88;
+	color:#000;
+}
+
+#frame-detail-lotto{
+	width:100%;
+	background-color:#FFF;
+	opacity:0.7;
+	border:1px solid #6c8ba6;
+	margin-top:10px;
+	padding-top:10%;
+}
+
+#buttom1{
+	-webkit-border-radius:0px;
+	background:#e85c41;
+	border-radius:0px;
+ 	border-color:#e85c41; 
+	color:#FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	text-shadow:0 0px;
+	width:64%;
+	margin-left:5%;
+}
+
+#buttom1-lotto{
+	-webkit-border-radius:0px;
+	background:#4d7596;
+	border-radius:0px;
+ 	border-color:#3a6b93; 
+	color:#FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	text-shadow:0 0px
+}
+.zzz{
+	position:absolute;
+}
+#img-confirmzero{
+	width:100%;
+	margin:-3px;
+}
+.tr-img{
+	width:45%;
+}
+.hr-bottom{
+	width:90%; 
+	color:#d1d0d0; 
+	margin-top:35px;
+	margin-bottom:0px;
+}
